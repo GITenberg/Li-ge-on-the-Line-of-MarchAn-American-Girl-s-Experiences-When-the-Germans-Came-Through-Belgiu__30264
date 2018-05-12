@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34470'
     url: http://www.gutenberg.org/2009/agents/34470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30264#Li-ge-on-the-Line-of-MarchAn-American-Girl-s-Experiences-When-the-Germans-Came-Through-Belgiu_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-10-15'
 gutenberg_type: Text
